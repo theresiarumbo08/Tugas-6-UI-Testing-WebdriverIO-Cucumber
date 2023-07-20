@@ -1,4 +1,4 @@
-# UI Automation Testing Using Cypress
+# UI Automation Testing Using Cucumber
 Tugas 6 - Cucumber
 - Making test scenarios on UI testing
 - Search for the locator of a web element
