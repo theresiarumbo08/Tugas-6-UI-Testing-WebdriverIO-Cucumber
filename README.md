@@ -2,7 +2,7 @@
 Tugas 6 - Cucumber
 - Making test scenarios on UI testing
 - Search for the locator of a web element
-- Using Cypress to create UI automation testing
+- Using Cucumber to create UI automation testing
 
 
 #### Library for Automation Test:
